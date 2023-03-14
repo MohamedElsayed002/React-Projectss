@@ -11,6 +11,12 @@ Project
 ## Project 8 -> slider
 ## Project 9 -> lorem-ipsum
 ## Project 10  -> color-generator 
+## sidebar-modal
+## stripe
+## navbar 
+## grocery-bud
+## cocktails
+## cart
 
 
 --- 
